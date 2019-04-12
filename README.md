@@ -5,3 +5,8 @@ For the first week into our independent study, my main focus was to find the rig
 Entry 2:
 For the second week into our independent study, my main focus was to know what I would like to do for this project. By Friday, I was still stuck on what I should work on. By the end of the last week, I decided to do more research about how to make a website maker with jekyll. I want to know how long this project would take me if I attempt to do it, and how hard it would be compared to the subjects I already know. However, during my second week, I did more research into other topics. I am now interested in making a game with the godot engine which is a gaming engine made by MIT. I would like to make a nice 2D game that is similar to slither.io. An important tip I have for others is to not procrastinate and to do the work needed to be done. I could have spent this week working on my project but instead was looking for the right idea.
 
+Entry 3:
+
+
+
+

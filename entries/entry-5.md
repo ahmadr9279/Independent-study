@@ -1,8 +1,11 @@
-<h2>Entry 5: My Journey To Finding What Makes Things Move</h2>
-
+<h1>Entry 5: My Journey To Finding What Makes Things Move</h1>
+<h3>An Overview</h3>
   <p>For the fifth week into our independent study, my main objective was to make a user capable of moving a cube with the arrow keys. At first, I thought it was going to be easy, so I tried to see if navigation was a add-on I can just click and drag onto my character. AFter many attempts, I looked back to one of the tutorials where I was able to move a character through the arrows (although I wasn't taught how to do that). After searching through the tutorial, I realized that the part that enabled the character to move was labeld "third character movement", and had the C# symbol. I realized that I have to learn a little C# to make my cube walk. I then did what any person would do in this situation... I searched "how to make a cube move in unity". </p>
+<h3>What I did and learned</h3>
   <p>At first, I clicked on a stack over flow link. However, this was very confusing, and was filled with a lot of complicated vocabulary realted to advanced Unity. I then tried plan b: I went on youtube and searched the same thing. I then found a video "https://www.youtube.com/watch?v=sXQI_0ILEW4". This video seemed very easy to understand, and I learned an easier way on how to create shapes, enviornments, and changing the color of things as well. I learned more than what I originally planned, and actually enjoyed it. However, I wasn't able to give my object movement yet because there wasn't enough time in class. But like I said before, I learned a lot of other small details that will ultimately make my game better.</p>
+<h3>Plans for next week</h3>
   <p>What I plan on accomplishing by the end of week 6 is to have a cube that fully moves throughout its enviornment by the arrow keys. I hope to accomplish my goal by continuing to watch the video I was talking about. If I complete this step and I still have time, I also hope to add other obstacles like balls which the cube could move around.</p>
+<h3>Lessons learned</h3>
   <p>A lesson I learned from week 5 is that try to learn others things you didn't plan on learning about because they could add to how good your project might seem. For example, I wasn't planning on learning on how to change the color of my cube and find easier ways to use unity in creating objects, but they were all very cool things to learn and will ultimately contribute to my project.</p>
 
   <img src="https://media.giphy.com/media/55d9Jb6sxv0UByXT2P/giphy.gif" alt="movement" >

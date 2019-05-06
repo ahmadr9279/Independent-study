@@ -4,3 +4,4 @@
   <p>At first, I clicked on a stack over flow link. However, this was very confusing, and was filled with a lot of complicated vocabulary realted to advanced Unity. I then tried plan b: I went on youtube and searched the same thing. I then found a video "https://www.youtube.com/watch?v=sXQI_0ILEW4". This video seemed very easy to understand, and I learned an easier way on how to create shapes, enviornments, and changing the color of things as well. I learned more than what I originally planned, and actually enjoyed it. However, I wasn't able to give my object movement yet because there wasn't enough time in class. But like I said before, I learned a lot of other small details that will ultimately make my game better.</p>
   
   <img src="https://media.giphy.com/media/9VAMvrzt9dsGkxulAo/giphy.gif" alt="movement" >
+  <img src="https://media.giphy.com/media/1mNBTj3g4jRCg/giphy.gif" alt="bowling" >

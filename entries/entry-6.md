@@ -8,6 +8,6 @@
 <h3>Plans for next week</h3>
   <p>What I plan on accomplishing by the end of week 7 is to have an mvp for my bowling game, where the objects successfuly mimic a bowling ball and bowling pin.</p>
 <h3>Lessons learned</h3>
-  <p>A lesson I learned from week 6 is that after you think your finished learning and ready to build, be ready to lerarn some more. I thought I was ready to build my bowling game but then reali</p>
+  <p>A lesson I learned from week 6 is that after you think your finished learning and ready to build, be ready to lerarn some more. I didn't think about the physics of the game until after I finished learning how to make objects move. While learning how to make objects move, I thought I would be ready afterwards to craete a game. However, when it was time to actually make the game and trying to knock down a cube, it seemed that I needed to learn more</p>
 
   <img src="https://media.giphy.com/media/sg6goiTm8qmVG/giphy.gif" alt="movement" >

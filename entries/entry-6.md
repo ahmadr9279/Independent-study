@@ -1,7 +1,8 @@
-<h1>Entry 5: The First Steps To Making A Cool Bowling Game</h1>
+<h1>Entry 6: Polishing My Skills an Beginning To Have A Bowl</h1>
 <h3>An Overview</h3>
-<setbakc>
-  <p>After doing many tutorials, watching youtube videos, learning some C3, and learning how to control a cube, it was finally time to create a product. After gaining the basic tools to create a game, my partner and I decided on making a bowling game. Basically, I was polishing my Unity skills and began to create a bowling game. For the first few days, the preview box where I could see how my game look was zoomed out and I couldn't see my game. I tried to zoom back in but it wouldn't work. It seemed that I still needed to learn how to properly use the view box where I could see my game. After googling ways to center the camera back to my game, I realized that I just needed to double click on any of the objects that I created in my script section. I double clicked on my cube and was automatically zoomed back to my game area. </h3>
+  <p>After doing many tutorials, watching youtube videos, learning some C3, and learning how to control a cube, it was finally time to create a product. After gaining the basic tools to create a game, my partner and I decided on making a bowling game. Basically, I was polishing my Unity skills and began to create a bowling game</p>
+<h3>Setbacks</h3>
+  <p>For the first few days, the preview box where I could see how my game look was zoomed out and I couldn't see my game. I tried to zoom back in but it wouldn't work. It seemed that I still needed to learn how to properly use the view box where I could see my game. After googling ways to center the camera back to my game, I realized that I just needed to double click on any of the objects that I created in my script section. I double clicked on my cube and was automatically zoomed back to my game area. </p>
   <p>Before I could create a bowling game, I first needed to study the physics of Unity.</p>
 <h3>Plans for next week</h3>
   <p>What I plan on accomplishing by the end of week 6 is to have a cube that fully moves throughout its enviornment by the arrow keys. I hope to accomplish my goal by continuing to watch the video I was talking about. If I complete this step and I still have time, I also hope to add other obstacles like balls which the cube could move around.</p>

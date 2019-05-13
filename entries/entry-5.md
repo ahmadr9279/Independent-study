@@ -9,3 +9,5 @@
   <p>A lesson I learned from week 5 is that try to learn others things you didn't plan on learning about because they could add to how good your project might seem. For example, I wasn't planning on learning on how to change the color of my cube and find easier ways to use unity in creating objects, but they were all very cool things to learn and will ultimately contribute to my project.</p>
 
   <img src="https://media.giphy.com/media/55d9Jb6sxv0UByXT2P/giphy.gif" alt="movement" >
+
+<img src="https://mail.google.com/mail/u/0?ui=2&ik=92fc415525&attid=0.3&permmsgid=msg a:r5638198932121852860&th=16aa2a432028fd52&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ9J9Qz0y1X8ENatizTL6UyB2SXI0kewQZIEYhvxPOOyoyzJQymlMaNvGzYrxbYsJRNiR3hbnfeRcqGxwZuGycK7pdAKcL_-3hVQ0-NBJqDOsEQwVQM52vyAWNg&disp=emb&realattid=ii_jvibch9y0" alt="image" >

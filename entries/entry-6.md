@@ -1,4 +1,4 @@
-<h1>Entry 6: Polishing My Skills an Beginning To Have A Bowl</h1>
+<h1>Entry 6: Polishing My Skills And Beginning To Have A Bowl</h1>
 <h3>An Overview</h3>
   <p>After doing many tutorials, watching youtube videos, learning some C3, and learning how to control a cube, it was finally time to create a product. After gaining the basic tools to create a game, my partner and I decided on making a bowling game. Basically, I was polishing my Unity skills and began to create a bowling game</p>
 <h3>Setbacks</h3>

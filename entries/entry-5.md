@@ -10,4 +10,3 @@
 
   <img src="https://media.giphy.com/media/55d9Jb6sxv0UByXT2P/giphy.gif" alt="movement" >
 
-<img src="https://mail.google.com/mail/u/0?ui=2&ik=92fc415525&attid=0.3&permmsgid=msg a:r5638198932121852860&th=16aa2a432028fd52&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ9J9Qz0y1X8ENatizTL6UyB2SXI0kewQZIEYhvxPOOyoyzJQymlMaNvGzYrxbYsJRNiR3hbnfeRcqGxwZuGycK7pdAKcL_-3hVQ0-NBJqDOsEQwVQM52vyAWNg&disp=emb&realattid=ii_jvibch9y0" alt="image" >

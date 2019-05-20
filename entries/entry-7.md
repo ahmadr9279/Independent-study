@@ -1,4 +1,4 @@
-<h1>Entry 6: Polishing My Skills And Beginning To Have A Bowl</h1>
+<h1>Entry 6: Tyring To Strike My Goal</h1>
 <h3>An Overview</h3>
   <p>After doing many tutorials, watching youtube videos, learning some C#, and learning how to control a cube, it was finally time to create a product. After gaining the basic tools to create a game, my partner and I decided on making a bowling game. This week I began to make a bowling game and learned any skills necessary like physics.</p>
 <h3>Setbacks</h3>
@@ -11,3 +11,7 @@
   <p>A lesson I learned from week 6 is that after you think you’re finished with learning and ready to build, be ready to learn some more. I didn't think about the physics of the game until after I finished learning how to make objects move. While learning how to make objects move, I thought I would be ready afterwards to create a game. However, when it was time to actually make the game and I was trying to knock down a cube, it seemed that I needed to learn more.</p>
 
   <img src="https://media.giphy.com/media/sg6goiTm8qmVG/giphy.gif" alt="movement" >
+  
+  <p align="center">
+        <img src = "https://raw.githubusercontent.com/ahmadr9279/Independent-study/master/images/acTx0V0c9T.gif"/>
+     </p> 
